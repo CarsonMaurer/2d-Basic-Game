@@ -336,6 +336,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf65da00169b7924191879ae807f5b13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 7704893541261458354, guid: f2e626f892baa9a4d94eccadf0487ae4, type: 3}
+  - {fileID: 2512088861173952754, guid: 27b19b94293b24a409ccdaab9b17170d, type: 3}
+  - {fileID: 5350513104462698217, guid: faa0243907005fc46a1a3128df0e2102, type: 3}
+  spawnXRange: 8
+  spawnYRange: 10
 --- !u!4 &1505479644
 Transform:
   m_ObjectHideFlags: 0
